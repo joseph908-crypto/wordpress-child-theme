@@ -18,3 +18,5 @@ A simple child theme for the Twenty Twenty-Four theme, created as part of my Wor
 
 - `style.css` - theme header and custom styles
 - `functions.php` - loads parent and child stylesheets
+## License 
+Released under the GPL v2 or later.
